@@ -1,1 +1,6 @@
-
+add raw/text/text_caption_ru.pac
+add raw/text/text_common_ru.pac
+add raw/text/text_Multi_Platform_ru.pac
+add raw/text/text_RichPresence_ru.pac
+add raw/stage/w09_common.pac
+add mod.ini
